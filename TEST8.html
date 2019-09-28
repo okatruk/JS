@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <script type="text/javascript">
+        const smallestDivisor = (num) => {
+          // BEGIN (write your solution here)
+          const iter = (acc) => {
+            if (acc > num / 2) {
+              return num;
+            }
+            if (num % acc === 0){
+              return acc;
+            }
+          return iter (acc + 1);
+            };
+          return iter(2);
+          // END
+          };
+          export default smallestDivisor;
+    </script type="text/javascript">
+  </body>
+</html>

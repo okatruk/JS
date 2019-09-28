@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <script type="text/javascript">
+      // BEGIN (write your solution here)
+      const finalGrade = (exam, projects) => {
+        if (exam > 90 || projects > 10) {
+          return 100;
+        }
+        else if (exam > 75 && projects >= 5) {
+          return 90;
+        }
+        else if (exam > 50 && projects >= 2) {
+          return 75;
+        } 
+        return 0;
+      };
+      // END
+      export default finalGrade;
+    </script type="text/javascript">
+  </body>
+</html>
