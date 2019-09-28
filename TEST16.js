@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
        import { length, toUpperCase } from './strings';
        // BEGIN (write your solution here)
        export default (str) => {
@@ -15,6 +9,3 @@
          return result;
        };
        // END
-    </script type="text/javascript">
-  </body>
-</html>

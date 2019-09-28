@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
        // BEGIN
        const sum = (str) => {
          let result = 0;
@@ -21,6 +15,3 @@
        };
        export default addDigits;
        // END
-    </script type="text/javascript">
-  </body>
-</html>

@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         // BEGIN (write your solution here)
         const square = num => num * num;
         const sumOfSquares = (num1, num2) =>
@@ -16,6 +10,3 @@
           sumOfSquares,
           squareSumOfSquares,
         };
-    </script type="text/javascript">
-  </body>
-</html>

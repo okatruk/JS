@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
+
        /* TEST 13 */
        export const getTrianglePerimeter = (a, b, c) => a + b + c;
          // BEGIN (write your solution here)
@@ -12,6 +7,3 @@
              return area;
            };
         // END
-    </script type="text/javascript">
-  </body>
-</html>

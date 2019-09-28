@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         import assert from 'assert';
         import factorial from './implementations';
           // BEGIN (write your solution here)
@@ -12,6 +6,3 @@
             assert.equal(factorial(4), 24);
             assert.equal(factorial(3), 6);
           // END
-    </script type="text/javascript">
-  </body>
-</html>

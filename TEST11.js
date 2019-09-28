@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         // BEGIN (write your solution here)
         const isPrime = (num) => {
           if (num < 2) {
@@ -18,6 +12,3 @@
         };
         // END
         export default isPrime;
-    </script type="text/javascript">
-  </body>
-</html>

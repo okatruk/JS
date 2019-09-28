@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
     const reference = () => {
       // BEGIN (write your solution here)
       const surfaceAreaCalculator = (radius) => {
@@ -12,7 +6,4 @@
     const surfaceOfMars = reaCalculator(3390);
       // END
     }; 
-    export default reference;  
-    </script type="text/javascript">
-  </body>
-</html>
+    export default reference;

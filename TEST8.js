@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         const smallestDivisor = (num) => {
           // BEGIN (write your solution here)
           const iter = (acc) => {
@@ -19,6 +13,3 @@
           // END
           };
           export default smallestDivisor;
-    </script type="text/javascript">
-  </body>
-</html>

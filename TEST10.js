@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         // BEGIN (write your solution here)
         const reverse = (str) => {
           let i = str.length - 1;
@@ -15,6 +9,3 @@
         }
         // END
         export default reverse;
-    </script type="text/javascript">
-  </body>
-</html>

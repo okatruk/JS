@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
       /* eslint-disable no-console */
      const weight = 70;
      const c = 300000000;
@@ -14,6 +8,3 @@
        export default energy;
        console.info(`Your body energy is ${energy} joules. This is 1 /                                                         
        ${Math.round(389000000000000000000 / energy)} of the yearly world energy consumption. Woah!`);
-    </script type="text/javascript">
-  </body>
-</html>

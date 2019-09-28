@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
       // BEGIN (write your solution here)
       const finalGrade = (exam, projects) => {
         if (exam > 90 || projects > 10) {
@@ -19,6 +13,3 @@
       };
       // END
       export default finalGrade;
-    </script type="text/javascript">
-  </body>
-</html>

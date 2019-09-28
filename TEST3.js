@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
       // BEGIN (write your solution here)
         const squareOfSum = (a, b) => (a * a) + (2 * a * b) + (b * b);
       // END
       export default squareOfSum;
-    </script type="text/javascript">
-  </body>
-</html>

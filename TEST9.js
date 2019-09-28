@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
         // BEGIN (write your solution here)
         const smallestDivisor = (num) => {
            if (num <= 0) {
@@ -20,6 +14,3 @@
            }
         // END
         export default smallestDivisor;
-    </script type="text/javascript">
-  </body>
-</html>

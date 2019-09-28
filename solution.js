@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <script type="text/javascript">
        /* TEST 13 */
        import square from './square';
        // BEGIN (write your solution here)
@@ -11,6 +5,3 @@
        const solution = (n) => getTriangleArea(n, square(n) / 2);
        export default solution;
        // END//
-    </script type="text/javascript">
-  </body>
-</html>
